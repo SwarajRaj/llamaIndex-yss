@@ -1,2 +1,2 @@
-# llamaIndex-yss
-USer Interface using LLamaIndex
+# BotPYT AI using llamaIndex-yss
+AI USer Interface using LLamaIndex
